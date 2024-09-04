@@ -54,10 +54,6 @@
 
 <br/><br/>
 
-<br/>
-
-<br/><br/>
-<br/><br/>
 
 <hr/>
 <p align="center">
