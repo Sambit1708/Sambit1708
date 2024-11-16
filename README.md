@@ -1,4 +1,4 @@
-![MasterHead](https://marketplace.canva.com/EAFFI2trtnE/1/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-cqVV-6-1kOk.jpg)
+![MasterHead](https://github.com/user-attachments/assets/6d4a72ad-2fe2-4af1-bc30-c823edbea90d)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sambit+Kumar+Khandai!;" />
