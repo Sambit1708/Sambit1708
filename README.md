@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sambit1708.github.io/portfolio/](https://sambit1708.github.io/portfolio/)
 
-- 💬 Ask me about **React JS, Spring Boot, Java, JavaScript**
+- 💬 Ask me about **Angular, React, Spring Boot, Java, JavaScript, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
